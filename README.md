@@ -1,7 +1,7 @@
 ## Bienvenue sur mon profil, je suis Fiakx
 
 Développeur passionné par les systèmes distribués et les architectures scalables.  
-Je m’intéresse particulièrement à la performance, à la sécurité et aux bonnes pratiques de code.  
+Je m’intéresse particulièrement à la performance, à la sécurité informatique.  
 Toujours en quête d’optimisation et d’apprentissage continu, j’explore régulièrement de nouveaux langages et frameworks.
 
 **Mes projets récents incluent :** 
